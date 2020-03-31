@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3aa4c84ca14fc6d4ec2a7c6ec0c08237",
+    "revision": "bf2753011d4eeb52bfc5d5a0b92022e6",
     "url": "/montsouz.github.io/index.html"
   },
   {
-    "revision": "0c7a82ce291f8953dbfe",
+    "revision": "5bb33e7a62b88783427d",
     "url": "/montsouz.github.io/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/montsouz.github.io/static/js/2.9342da57.chunk.js.LICENSE"
   },
   {
-    "revision": "0c7a82ce291f8953dbfe",
-    "url": "/montsouz.github.io/static/js/main.0e458920.chunk.js"
+    "revision": "5bb33e7a62b88783427d",
+    "url": "/montsouz.github.io/static/js/main.6ae1ecd7.chunk.js"
   },
   {
     "revision": "77b72a34221834efb078",
