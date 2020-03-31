@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         This web site is under construction...
+          <p>Please, come visit me later</p>
       </header>
     </div>
   );
