@@ -1,5 +1,5 @@
 import React from "react";
-import ContactInfo from '../ContactInfo/ContactInfo'
+import ContactInfo from './ContactInfo/ContactInfo'
 
 const MainTitle = () => {
 
