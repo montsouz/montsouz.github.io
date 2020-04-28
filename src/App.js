@@ -1,13 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
+import MainTitle from './MainTitle/MainTitle'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        This web site is under construction...
-          <p>Please, come visit me later</p>
+          <MainTitle/>
       </header>
     </div>
   );
