@@ -1,15 +1,26 @@
-import React from 'react';
+import React,{useState} from 'react';
 import MainTitle from './MainTitle/MainTitle'
+import Contents from './Contents/Contents'
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-          <MainTitle/>
-      </header>
-    </div>
-  );
-}
+
+const App = () => {
+
+    const [contents, setContents] = useState(false);
+
+    const toggleContentHandler = () => {
+        setContents(!contents)
+    };
+
+    return (
+        <div className="App">
+            <header className="App-header">
+                {!contents && <MainTitle action={toggleContentHandler}/>}
+                {contents && <Contents/>}
+            </header>
+        </div>
+    );
+
+};
 
 export default App;

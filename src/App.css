@@ -20,7 +20,8 @@ body {
 }
 
 .primary-button {
-  background-color:  crimson;
+  background-color:  #5852b2;
+  outline: none;
   color: white;
   padding: 16px;
   border-radius: 32px;
@@ -30,7 +31,7 @@ body {
 }
 
 .primary-button:hover{
-  background-color: #fc143e;
+  background-color: #47478e;
 }
 
 
@@ -64,8 +65,62 @@ body {
   margin: 15px
 }
 
+.main-title-logos-container a {
+  margin: 10px;
+  font-size: 14px;
+  display: inline-block;
+  color: #5852b2;
+}
+
+
 .main-title-logos{
   height: 32px;
   margin: 5px;
 }
 
+.main-card {
+  min-height: 150px;
+  width: 600px;
+  background-color: #343940;
+  border-radius: 16px;
+  margin: 32px;
+  padding: 32px;
+  box-shadow: 0px 13px 10px -7px rgba(0, 0, 0,0.1);
+}
+
+.main-card:hover {
+  box-shadow: 0px 30px 18px -8px rgba(0, 0, 0,0.1);
+  transform: scale(1.10, 1.10);
+}
+
+.card-title {
+  margin-bottom: 8px;
+}
+
+.card-content {
+  font-size: 16px;
+  text-align: initial;
+}
+
+.content-title {
+  margin: 64px;
+}
+
+.general-link {
+  background-color:  #5852b2;
+  text-decoration: underline;
+  font-size: 14px;
+  cursor: pointer;
+  color: white;
+}
+
+.with-more-space {
+  margin: 30px 0 60px 0;
+  font-size: 18px;
+}
+
+.topic {
+  text-decoration: underline;
+  font-size: 18px;
+  text-align: initial;
+}
