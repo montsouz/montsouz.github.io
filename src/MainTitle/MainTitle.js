@@ -5,7 +5,7 @@ const MainTitle = ({action}) => {
 
     const originalMainTitle = "<\Hello there! I'm Guilherme Monteiro, Full-Stack developer/>";
     const mobileText = [
-        '<Hello there!',
+        '<Hello there! ',
         'I\'m Guilherme Monteiro,',
         'Full-Stack developer/>'
     ];

@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/montsouz.github.io/static/css/main.c063920a.chunk.css",
-    "main.js": "/montsouz.github.io/static/js/main.351559a4.chunk.js",
-    "main.js.map": "/montsouz.github.io/static/js/main.351559a4.chunk.js.map",
-    "runtime-main.js": "/montsouz.github.io/static/js/runtime-main.29f9a399.js",
-    "runtime-main.js.map": "/montsouz.github.io/static/js/runtime-main.29f9a399.js.map",
-    "static/js/2.09777f30.chunk.js": "/montsouz.github.io/static/js/2.09777f30.chunk.js",
-    "static/js/2.09777f30.chunk.js.map": "/montsouz.github.io/static/js/2.09777f30.chunk.js.map",
-    "index.html": "/montsouz.github.io/index.html",
-    "precache-manifest.6a100961eb5684f0c56544b97ae9bfca.js": "/montsouz.github.io/precache-manifest.6a100961eb5684f0c56544b97ae9bfca.js",
-    "service-worker.js": "/montsouz.github.io/service-worker.js",
-    "static/css/main.c063920a.chunk.css.map": "/montsouz.github.io/static/css/main.c063920a.chunk.css.map",
-    "static/js/2.09777f30.chunk.js.LICENSE": "/montsouz.github.io/static/js/2.09777f30.chunk.js.LICENSE",
-    "static/media/linkedin.svg": "/montsouz.github.io/static/media/linkedin.0d8fa4cf.svg"
+    "main.css": "/static/css/main.4f20cbef.chunk.css",
+    "main.js": "/static/js/main.85b9000a.chunk.js",
+    "main.js.map": "/static/js/main.85b9000a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ce6c8239.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ce6c8239.js.map",
+    "static/js/2.1cd86a83.chunk.js": "/static/js/2.1cd86a83.chunk.js",
+    "static/js/2.1cd86a83.chunk.js.map": "/static/js/2.1cd86a83.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2841cb96ebd027bf38700b7179d05b09.js": "/precache-manifest.2841cb96ebd027bf38700b7179d05b09.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4f20cbef.chunk.css.map": "/static/css/main.4f20cbef.chunk.css.map",
+    "static/js/2.1cd86a83.chunk.js.LICENSE": "/static/js/2.1cd86a83.chunk.js.LICENSE",
+    "static/media/linkedin.svg": "/static/media/linkedin.0d8fa4cf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.29f9a399.js",
-    "static/js/2.09777f30.chunk.js",
-    "static/css/main.c063920a.chunk.css",
-    "static/js/main.351559a4.chunk.js"
+    "static/js/runtime-main.ce6c8239.js",
+    "static/js/2.1cd86a83.chunk.js",
+    "static/css/main.4f20cbef.chunk.css",
+    "static/js/main.85b9000a.chunk.js"
   ]
 }
